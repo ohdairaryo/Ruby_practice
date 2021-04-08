@@ -7,9 +7,9 @@ array1 = ["モカ","カフェラテ","モカ"]
 array2 = array1.uniq
 p array2
 
-Array1 = ["モカ","カフェラテ","モカ"]
-Array1.clear
-p Array1
+array1 = ["モカ","カフェラテ","モカ"]
+array1.clear
+p array1
 
 #5-3
 puts ["カフェラテ","モカ","カプチーノ"].sample
